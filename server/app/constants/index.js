@@ -1,0 +1,11 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.CHAT_NAMESPACE = exports.MEMBER_AREA_NAMESPACE = exports.UPLOADS_EVENTS_NAMESPACE = exports.COMMENTS_EVENTS_NAMESPACE = void 0;
+const COMMENTS_EVENTS_NAMESPACE = 'comments-events';
+exports.COMMENTS_EVENTS_NAMESPACE = COMMENTS_EVENTS_NAMESPACE;
+const UPLOADS_EVENTS_NAMESPACE = 'uploads-events';
+exports.UPLOADS_EVENTS_NAMESPACE = UPLOADS_EVENTS_NAMESPACE;
+const MEMBER_AREA_NAMESPACE = 'member-area';
+exports.MEMBER_AREA_NAMESPACE = MEMBER_AREA_NAMESPACE;
+const CHAT_NAMESPACE = 'chat';
+exports.CHAT_NAMESPACE = CHAT_NAMESPACE;
